@@ -1,0 +1,37 @@
+{D:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/Controller.sv} {1 {vlog -work work -sv -stats=none {D:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/Controller.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DivCV
+
+Top level modules:
+	DivCV
+
+} {} {}} {D:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/both_test.sv} {1 {vlog -work work -sv -stats=none {D:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/both_test.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DivTestBoth
+
+Top level modules:
+	DivTestBoth
+
+} {} {}} {D:/Uni/Semester 4/Digital Systems 1/CA/CA5/quaryus/simulation/modelsim/Div_Top.svo} {1 {vlog -work work -stats=none {D:/Uni/Semester 4/Digital Systems 1/CA/CA5/quaryus/simulation/modelsim/Div_Top.svo}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module top
+-- Compiling module hard_block
+
+Top level modules:
+	top
+
+} {} {}} {D:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/Top.sv} {1 {vlog -work work -sv -stats=none {D:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/Top.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DivTop
+
+Top level modules:
+	DivTop
+
+} {} {}} {D:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/Datapath.sv} {1 {vlog -work work -sv -stats=none {D:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/Datapath.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DivDp
+
+Top level modules:
+	DivDp
+
+} {} {}}

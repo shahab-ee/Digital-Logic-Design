@@ -1,0 +1,187 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Uni/Semester 4/Digital Systems 1/CA/CA5
+vDivCV
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1718182069
+!i10b 1
+!s100 P9nL<Zon20ID[VfEhjE<C2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I]_Z0W621OjH?UIFNleaVE1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dD:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth
+w1718152380
+8D:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/Controller.sv
+FD:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/Controller.sv
+!i122 51
+L0 3 39
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1718182069.000000
+!s107 D:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/Controller.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/Controller.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+n@div@c@v
+vDivDp
+R0
+R1
+!i10b 1
+!s100 o_eP21goK^XezcDgYGVED1
+R2
+IZmeeY92]PP1BzM;1_26[?3
+R3
+S1
+R4
+w1718154524
+8D:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/Datapath.sv
+FD:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/Datapath.sv
+!i122 52
+L0 2 51
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/Datapath.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/Datapath.sv|
+!i113 1
+R7
+R8
+n@div@dp
+vDivTB
+R0
+!s110 1718181902
+!i10b 1
+!s100 cg?g?EPb9do^575m9MP:^1
+R2
+IFB9M9b;7RF^?]hH4GmlSg2
+R3
+S1
+R4
+w1718153185
+8D:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/Test.sv
+FD:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/Test.sv
+!i122 47
+L0 2 18
+R5
+r1
+!s85 0
+31
+!s108 1718181902.000000
+!s107 D:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/Test.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/Test.sv|
+!i113 1
+R7
+R8
+n@div@t@b
+vDivTestBoth
+R0
+!s110 1718182070
+!i10b 1
+!s100 G0dZfNYaH>WiL2Hmndci;1
+R2
+Iik4G0TM^_bFa`6BSFn7T]2
+R3
+S1
+R4
+w1718156783
+8D:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/both_test.sv
+FD:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/both_test.sv
+!i122 55
+L0 2 19
+R5
+r1
+!s85 0
+31
+!s108 1718182070.000000
+!s107 D:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/both_test.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/both_test.sv|
+!i113 1
+R7
+R8
+n@div@test@both
+vDivTop
+R0
+R1
+!i10b 1
+!s100 Y`jzc;jV:Cf_4fVCNo18z3
+R2
+IoK<09d7NNC;kS@:FibLVX1
+R3
+S1
+R4
+w1718152276
+8D:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/Top.sv
+FD:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/Top.sv
+!i122 53
+L0 2 5
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/Top.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Uni/Semester 4/Digital Systems 1/CA/CA5/Pre-Synth/Top.sv|
+!i113 1
+R7
+R8
+n@div@top
+vhard_block
+R1
+!i10b 1
+!s100 =O@lSRkhhJS01EIR:CDYi3
+R2
+ICEo16^A1h<SLQc[@HHcWH2
+R3
+R4
+Z9 w1718119582
+Z10 8D:/Uni/Semester 4/Digital Systems 1/CA/CA5/quaryus/simulation/modelsim/Div_Top.svo
+Z11 FD:/Uni/Semester 4/Digital Systems 1/CA/CA5/quaryus/simulation/modelsim/Div_Top.svo
+!i122 54
+L0 1835 34
+R5
+r1
+!s85 0
+31
+R6
+Z12 !s107 D:/Uni/Semester 4/Digital Systems 1/CA/CA5/quaryus/simulation/modelsim/Div_Top.svo|
+Z13 !s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Semester 4/Digital Systems 1/CA/CA5/quaryus/simulation/modelsim/Div_Top.svo|
+!i113 1
+Z14 o-work work
+R8
+vtop
+R1
+!i10b 1
+!s100 5LeZVNSWoEV=BW]^_ci8X3
+R2
+IfY5Um6Wi^9MC:j?]iI7z?2
+R3
+R4
+R9
+R10
+R11
+!i122 54
+L0 32 1802
+R5
+r1
+!s85 0
+31
+R6
+R12
+R13
+!i113 1
+R14
+R8

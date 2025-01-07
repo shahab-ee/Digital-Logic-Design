@@ -1,0 +1,77 @@
+{D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Controller.v} {1 {vlog -work work -stats=none {D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+-- Compiling module ALU_ctrl
+-- Compiling module OPC_dec
+-- Compiling module Branch_ctrl
+
+Top level modules:
+	controller
+
+} {} {}} {D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Data_mem.v} {1 {vlog -work work -stats=none {D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Data_mem.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Data_mem
+
+Top level modules:
+	Data_mem
+
+} {} {}} {D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Extend.v} {1 {vlog -work work -stats=none {D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Extend.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Extend
+
+Top level modules:
+	Extend
+
+} {} {}} {D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/TestBench.v} {2 {vlog -work work -stats=none {D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/TestBench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TestBench
+** Warning: D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/TestBench.v(10): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/TestBench.v(10): (vlog-2284) Empty $unit scope found.
+-- Compiling package TestBench_v_unit
+
+Top level modules:
+	TestBench
+
+} {} {}} {D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/RegisterFile.v} {1 {vlog -work work -stats=none {D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/RegisterFile.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} {D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/ALU.v} {1 {vlog -work work -stats=none {D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Instr_mem.v} {1 {vlog -work work -stats=none {D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Instr_mem.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Instr_mem
+
+Top level modules:
+	Instr_mem
+
+} {} {}} {D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/PC_Counter.v} {1 {vlog -work work -stats=none {D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/PC_Counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PC_Counter
+
+Top level modules:
+	PC_Counter
+
+} {} {}} {D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Datapath.v} {1 {vlog -work work -stats=none {D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} {D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Top.v} {1 {vlog -work work -stats=none {D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Top.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Top
+
+Top level modules:
+	Top
+
+} {} {}}

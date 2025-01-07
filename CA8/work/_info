@@ -1,0 +1,385 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/SHAHAB/Desktop
+vcontroller
+Z0 !s110 1733054351
+!i10b 1
+!s100 ?40:@60ek`ZW=iXH:Imo;2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IzF0LKL9i<;`zel<?lWe_H1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/Uni/Semester 5/DLD lab/EX2
+Z4 w1733054129
+8D:/Uni/Semester 5/DLD lab/controller.v
+FD:/Uni/Semester 5/DLD lab/controller.v
+!i122 0
+L0 1 55
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1733054351.000000
+!s107 D:/Uni/Semester 5/DLD lab/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Semester 5/DLD lab/controller.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vdata_num_cnt
+Z9 !s110 1733054352
+!i10b 1
+!s100 lnH_;Ji[9ijJRKm?;ARdQ3
+R1
+IElFnIKi;m1UJeHAjoAW<n2
+R2
+R3
+R4
+Z10 8D:/Uni/Semester 5/DLD lab/dp_components.v
+Z11 FD:/Uni/Semester 5/DLD lab/dp_components.v
+!i122 2
+L0 96 17
+R5
+r1
+!s85 0
+31
+Z12 !s108 1733054352.000000
+Z13 !s107 D:/Uni/Semester 5/DLD lab/dp_components.v|
+Z14 !s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Semester 5/DLD lab/dp_components.v|
+!i113 1
+R7
+R8
+vdata_num_shr
+R9
+!i10b 1
+!s100 FL^gPTnJZQ1=cn374Tz:V0
+R1
+IH1G:zc`dUJHbR;OP;HR9>2
+R2
+R3
+R4
+R10
+R11
+!i122 2
+L0 114 16
+R5
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R7
+R8
+vdata_trans_cnt
+R9
+!i10b 1
+!s100 5mZPR6T1j5CC;SCgi3P8c1
+R1
+I1IUAmHFfZRLlCW^FkNedL0
+R2
+R3
+R4
+R10
+R11
+!i122 2
+L0 131 21
+R5
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R7
+R8
+vDataPath
+R0
+!i10b 1
+!s100 dbE=`i2ZA[WVSO`Fa4G_[3
+R1
+I8kY]G;o4=in^keVR;5MKQ2
+R2
+R3
+R4
+8D:/Uni/Semester 5/DLD lab/datapath.v
+FD:/Uni/Semester 5/DLD lab/datapath.v
+!i122 1
+L0 1 38
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Uni/Semester 5/DLD lab/datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Semester 5/DLD lab/datapath.v|
+!i113 1
+R7
+R8
+n@data@path
+vdemnx
+R9
+!i10b 1
+!s100 Ml4JfmjZMH4?i4El^?]Wm1
+R1
+I:CYW4<4gVmIR>2gZb?fM=0
+R2
+R3
+R4
+R10
+R11
+!i122 2
+L0 153 18
+R5
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R7
+R8
+vDSR
+R9
+!i10b 1
+!s100 ?AlM7PcgQnbl=[OGVIi]T1
+R1
+IQ2B6LhXGh6PbmkfY^KVLG0
+R2
+R3
+R4
+R10
+R11
+!i122 2
+L0 29 16
+R5
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R7
+R8
+n@d@s@r
+vMSSD
+R9
+!i10b 1
+!s100 [H_Zm2ZL1^iKKUEIL<iGm3
+R1
+IS`BI7]P;QMR8eWm`c77cm0
+R2
+R3
+R4
+8D:/Uni/Semester 5/DLD lab/main_circuit.v
+FD:/Uni/Semester 5/DLD lab/main_circuit.v
+!i122 3
+L0 1 29
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/Uni/Semester 5/DLD lab/main_circuit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Semester 5/DLD lab/main_circuit.v|
+!i113 1
+R7
+R8
+n@m@s@s@d
+vOnePulser
+R9
+!i10b 1
+!s100 eceIKdEV2W?h2d<h5YWZU0
+R1
+I4`o8430h6[?nIZ47EiZ=L0
+R2
+R3
+R4
+8D:/Uni/Semester 5/DLD lab/pulser.v
+FD:/Uni/Semester 5/DLD lab/pulser.v
+!i122 4
+L0 1 37
+R5
+r1
+!s85 0
+31
+R12
+!s107 D:/Uni/Semester 5/DLD lab/pulser.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Semester 5/DLD lab/pulser.v|
+!i113 1
+R7
+R8
+n@one@pulser
+vport_count
+R9
+!i10b 1
+!s100 eMLeUil4eGN?XfC;^V@[b1
+R1
+I[Fm7eY:eXkh@Bz2PWGkH@0
+R2
+R3
+R4
+R10
+R11
+!i122 2
+L0 63 15
+R5
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R7
+R8
+vport_num_shr
+R9
+!i10b 1
+!s100 f`Wz_H=ZPIRkClZ@bKBU20
+R1
+I8OkC`5:e696hBfJUXLAJ^1
+R2
+R3
+R4
+R10
+R11
+!i122 2
+L0 79 16
+R5
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R7
+R8
+vPSR
+R9
+!i10b 1
+!s100 _fUG9Ai_X>z9I=[eOf=T03
+R1
+I6dS[T=9_cRjV3Rcce;<TE2
+R2
+R3
+R4
+R10
+R11
+!i122 2
+L0 46 16
+R5
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R7
+R8
+n@p@s@r
+vsequence
+Z15 !s110 1733662238
+!i10b 1
+!s100 CnN]_FfP1_4QMzW2Nd5G53
+R1
+IPUmZXW9mP>jWT[NN1UX?=3
+R2
+R3
+w1733662231
+8D:/Uni/Semester 5/DLD lab/EX2/1.v
+FD:/Uni/Semester 5/DLD lab/EX2/1.v
+!i122 23
+L0 1 26
+R5
+r1
+!s85 0
+31
+Z16 !s108 1733662238.000000
+!s107 D:/Uni/Semester 5/DLD lab/EX2/1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Semester 5/DLD lab/EX2/1.v|
+!i113 1
+R7
+R8
+vSSD
+R9
+!i10b 1
+!s100 =M:BHbVIHTGL<MiHezCAd2
+R1
+IWeUedHMMG;E1DciKWLfnK1
+R2
+R3
+R4
+R10
+R11
+!i122 2
+L0 1 27
+R5
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R7
+R8
+n@s@s@d
+vtb
+!s110 1733054353
+!i10b 1
+!s100 Ei:5b;DC0^^1iS9n8M:eN3
+R1
+Im1@GiJajbZIcLbK0WnPQD1
+R2
+R3
+R4
+8D:/Uni/Semester 5/DLD lab/tb.v
+FD:/Uni/Semester 5/DLD lab/tb.v
+!i122 5
+L0 1 42
+R5
+r1
+!s85 0
+31
+!s108 1733054353.000000
+!s107 D:/Uni/Semester 5/DLD lab/tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Semester 5/DLD lab/tb.v|
+!i113 1
+R7
+R8
+vtest
+R15
+!i10b 1
+!s100 fk[Um3d4D3J=I9>nHRnf@2
+R1
+IjlJcUcE@jleElfh?HLhTD3
+R2
+R3
+w1733661842
+8D:/Uni/Semester 5/DLD lab/EX2/2.v
+FD:/Uni/Semester 5/DLD lab/EX2/2.v
+!i122 24
+L0 2 25
+R5
+r1
+!s85 0
+31
+R16
+!s107 D:/Uni/Semester 5/DLD lab/EX2/2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Semester 5/DLD lab/EX2/2.v|
+!i113 1
+R7
+R8

@@ -1,0 +1,347 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vALU
+Z0 !s110 1732967059
+!i10b 1
+!s100 :[:a2T^U6jW1>ck6hCL]d0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I9U_FMk@V<YEhFEVhz;9BJ0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537
+w1732966192
+8D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/ALU.v
+FD:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/ALU.v
+!i122 0
+L0 2 22
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1732967058.000000
+!s107 D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/ALU.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@l@u
+vALU_ctrl
+R0
+!i10b 1
+!s100 5MljBQZ745O9:RU2VA6d;1
+R1
+IIgNPe>Hg^a`DFjH?NlP4]2
+R2
+R3
+Z7 w1732965593
+Z8 8D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Controller.v
+Z9 FD:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Controller.v
+!i122 1
+L0 13 30
+R4
+r1
+!s85 0
+31
+Z10 !s108 1732967059.000000
+Z11 !s107 D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Controller.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Controller.v|
+!i113 1
+R5
+R6
+n@a@l@u_ctrl
+vBranch_ctrl
+R0
+!i10b 1
+!s100 Qo52W7Q@ZkXbX^l:Ak6ia2
+R1
+Io<2L^M2IM?kTMHJY`DWXo1
+R2
+R3
+R7
+R8
+R9
+!i122 1
+L0 95 15
+R4
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R5
+R6
+n@branch_ctrl
+vcontroller
+R0
+!i10b 1
+!s100 jKUMGYJbG3aZPgl=6hYLc2
+R1
+ITX38hQ6mh_NZF2aO>;N=A2
+R2
+R3
+R7
+R8
+R9
+!i122 1
+L0 2 10
+R4
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R5
+R6
+vData_mem
+Z13 !s110 1732967060
+!i10b 1
+!s100 f>;T4o=Pf3I3`zR93Sck^3
+R1
+IN3[[^NmU9jMbF>dVL25IG2
+R2
+R3
+w1732966258
+8D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Data_mem.v
+FD:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Data_mem.v
+!i122 2
+L0 2 16
+R4
+r1
+!s85 0
+31
+Z14 !s108 1732967060.000000
+!s107 D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Data_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Data_mem.v|
+!i113 1
+R5
+R6
+n@data_mem
+vdatapath
+R13
+!i10b 1
+!s100 01LT]7@T7f0ZYCoOna8`S0
+R1
+IJTijHEbW``YcojX`9K]fb3
+R2
+R3
+w1732965394
+8D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Datapath.v
+FD:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Datapath.v
+!i122 3
+L0 1 22
+R4
+r1
+!s85 0
+31
+R14
+!s107 D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Datapath.v|
+!i113 1
+R5
+R6
+vExtend
+R13
+!i10b 1
+!s100 a32ZiccF17QK:_Tk2MDdP1
+R1
+ITTeX1kTfQV3L2TLJcZoKm2
+R2
+R3
+w1732966206
+8D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Extend.v
+FD:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Extend.v
+!i122 4
+L0 2 24
+R4
+r1
+!s85 0
+31
+R14
+!s107 D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Extend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Extend.v|
+!i113 1
+R5
+R6
+n@extend
+vInstr_mem
+Z15 !s110 1732967061
+!i10b 1
+!s100 7R@zAlQFW^O8`Rbf?`jQ?0
+R1
+IfI:DP9`33>2hHQ^H<@VP01
+R2
+R3
+w1732966280
+8D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Instr_mem.v
+FD:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Instr_mem.v
+!i122 5
+L0 2 11
+R4
+r1
+!s85 0
+31
+Z16 !s108 1732967061.000000
+!s107 D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Instr_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Instr_mem.v|
+!i113 1
+R5
+R6
+n@instr_mem
+vOPC_dec
+R0
+!i10b 1
+!s100 bf9iUP]ImQF?aQ9<4n:CK0
+R1
+IFWnNeV9EjTR4SK@lDKi:R3
+R2
+R3
+R7
+R8
+R9
+!i122 1
+L0 45 49
+R4
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R5
+R6
+n@o@p@c_dec
+vPC_Counter
+R15
+!i10b 1
+!s100 7K6i4:RYbhg9_9Z>M1ZaL2
+R1
+IVIYEl]l;Ih:]<k;YeRZH`2
+R2
+R3
+w1732966243
+8D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/PC_Counter.v
+FD:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/PC_Counter.v
+!i122 6
+L0 3 13
+R4
+r1
+!s85 0
+31
+R16
+!s107 D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/PC_Counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/PC_Counter.v|
+!i113 1
+R5
+R6
+n@p@c_@counter
+vRegisterFile
+R15
+!i10b 1
+!s100 JRU6>V<NzWUL9VoHV<]290
+R1
+IIoBcd9Yl_cIfPU9dCibOo0
+R2
+R3
+w1732966227
+8D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/RegisterFile.v
+FD:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/RegisterFile.v
+!i122 7
+L0 2 28
+R4
+r1
+!s85 0
+31
+R16
+!s107 D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/RegisterFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/RegisterFile.v|
+!i113 1
+R5
+R6
+n@register@file
+vTestBench
+Z17 !s110 1732967062
+!i10b 1
+!s100 jLdMeze;;Bd:e<m:i:fhX1
+R1
+I;`?7@FGUlHF^ji1755iXM3
+R2
+R3
+Z18 w1732964953
+Z19 8D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/TestBench.v
+Z20 FD:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/TestBench.v
+!i122 8
+L0 2 9
+R4
+r1
+!s85 0
+31
+Z21 !s108 1732967062.000000
+Z22 !s107 D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/TestBench.v|
+Z23 !s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/TestBench.v|
+!i113 1
+R5
+R6
+n@test@bench
+XTestBench_v_unit
+DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+R17
+Vmk>HWSCe1@J>zla`a9VWD0
+r1
+!s85 0
+!i10b 1
+!s100 mm04iinmig5d^ab9L?oFO3
+Imk>HWSCe1@J>zla`a9VWD0
+!i103 1
+S1
+R3
+R18
+R19
+R20
+!i122 8
+L0 10 0
+R4
+31
+R21
+R22
+R23
+!i113 1
+R5
+R6
+n@test@bench_v_unit
+vTop
+R17
+!i10b 1
+!s100 dEf]Y=oFI@ndBCj[ZQgm22
+R1
+I=SG?id>;YB8aLA7eM7]8g3
+R2
+R3
+w1732965104
+8D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Top.v
+FD:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Top.v
+!i122 9
+L0 1 8
+R4
+r1
+!s85 0
+31
+R21
+!s107 D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/Semester 5/Digital Systems 2/CA/CA2/CA2 - 810101454-810101537/Top.v|
+!i113 1
+R5
+R6
+n@top

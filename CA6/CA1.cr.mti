@@ -1,0 +1,59 @@
+C:/Users/SHAHAB/Desktop/DHKFSLSDKLKKFWKFJFEV/Controller.v {1 {vlog -work work -stats=none C:/Users/SHAHAB/Desktop/DHKFSLSDKLKKFWKFJFEV/Controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} C:/Users/SHAHAB/Desktop/DHKFSLSDKLKKFWKFJFEV/test.v {1 {vlog -work work -stats=none C:/Users/SHAHAB/Desktop/DHKFSLSDKLKKFWKFJFEV/test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CA_8queen_tb
+
+Top level modules:
+	CA_8queen_tb
+
+} {} {}} C:/Users/SHAHAB/Desktop/DHKFSLSDKLKKFWKFJFEV/UpCounter.v {1 {vlog -work work -stats=none C:/Users/SHAHAB/Desktop/DHKFSLSDKLKKFWKFJFEV/UpCounter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module UpCounter
+
+Top level modules:
+	UpCounter
+
+} {} {}} C:/Users/SHAHAB/Desktop/DHKFSLSDKLKKFWKFJFEV/Regs.v {1 {vlog -work work -stats=none C:/Users/SHAHAB/Desktop/DHKFSLSDKLKKFWKFJFEV/Regs.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Registers
+
+Top level modules:
+	Registers
+
+} {} {}} C:/Users/SHAHAB/Desktop/DHKFSLSDKLKKFWKFJFEV/OnesCounter.v {1 {vlog -work work -stats=none C:/Users/SHAHAB/Desktop/DHKFSLSDKLKKFWKFJFEV/OnesCounter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module OnesCounter
+
+Top level modules:
+	OnesCounter
+
+} {} {}} C:/Users/SHAHAB/Desktop/DHKFSLSDKLKKFWKFJFEV/stack.v {1 {vlog -work work -stats=none C:/Users/SHAHAB/Desktop/DHKFSLSDKLKKFWKFJFEV/stack.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module stack
+
+Top level modules:
+	stack
+
+} {} {}} C:/Users/SHAHAB/Desktop/DHKFSLSDKLKKFWKFJFEV/top.v {1 {vlog -work work -stats=none C:/Users/SHAHAB/Desktop/DHKFSLSDKLKKFWKFJFEV/top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CA_8queen
+
+Top level modules:
+	CA_8queen
+
+} {} {}} C:/Users/SHAHAB/Desktop/DHKFSLSDKLKKFWKFJFEV/DCD.v {1 {vlog -work work -stats=none C:/Users/SHAHAB/Desktop/DHKFSLSDKLKKFWKFJFEV/DCD.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DCD
+-- Compiling module MUX8
+
+Top level modules:
+	DCD
+	MUX8
+
+} {} {}}

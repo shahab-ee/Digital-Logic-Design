@@ -1,0 +1,59 @@
+{D:/Uni/Semester 5/DLD lab/tb.v} {1 {vlog -work work -stats=none {D:/Uni/Semester 5/DLD lab/tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} {D:/Uni/Semester 5/DLD lab/datapath.v} {1 {vlog -work work -stats=none {D:/Uni/Semester 5/DLD lab/datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DataPath
+
+Top level modules:
+	DataPath
+
+} {} {}} {D:/Uni/Semester 5/DLD lab/main_circuit.v} {1 {vlog -work work -stats=none {D:/Uni/Semester 5/DLD lab/main_circuit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MSSD
+
+Top level modules:
+	MSSD
+
+} {} {}} {D:/Uni/Semester 5/DLD lab/pulser.v} {1 {vlog -work work -stats=none {D:/Uni/Semester 5/DLD lab/pulser.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module OnePulser
+
+Top level modules:
+	OnePulser
+
+} {} {}} {D:/Uni/Semester 5/DLD lab/controller.v} {1 {vlog -work work -stats=none {D:/Uni/Semester 5/DLD lab/controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {D:/Uni/Semester 5/DLD lab/dp_components.v} {1 {vlog -work work -stats=none {D:/Uni/Semester 5/DLD lab/dp_components.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SSD
+-- Compiling module DSR
+-- Compiling module PSR
+-- Compiling module port_count
+-- Compiling module port_num_shr
+-- Compiling module data_num_cnt
+-- Compiling module data_num_shr
+-- Compiling module data_trans_cnt
+-- Compiling module demnx
+
+Top level modules:
+	SSD
+	DSR
+	PSR
+	port_count
+	port_num_shr
+	data_num_cnt
+	data_num_shr
+	data_trans_cnt
+	demnx
+
+} {} {}}
