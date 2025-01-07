@@ -1,0 +1,22 @@
+{D:/Uni/Semester 4/Digital Systems 1/CA/CA2/Q3/MUX.sv} {1 {vlog -work work -sv -stats=none {D:/Uni/Semester 4/Digital Systems 1/CA/CA2/Q3/MUX.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MUX
+
+Top level modules:
+	MUX
+
+} {} {}} {D:/Uni/Semester 4/Digital Systems 1/CA/CA2/Q3/Q3_test.sv} {1 {vlog -work work -sv -stats=none {D:/Uni/Semester 4/Digital Systems 1/CA/CA2/Q3/Q3_test.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_mux_test
+
+Top level modules:
+	adder_mux_test
+
+} {} {}} {D:/Uni/Semester 4/Digital Systems 1/CA/CA2/Q3/Q3_use.sv} {1 {vlog -work work -sv -stats=none {D:/Uni/Semester 4/Digital Systems 1/CA/CA2/Q3/Q3_use.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder3_mux
+
+Top level modules:
+	adder3_mux
+
+} {} {}}

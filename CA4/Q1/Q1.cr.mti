@@ -1,0 +1,8 @@
+{D:/Uni/Semester 4/Digital Systems 1/CA/CA4/Q1/Q1_test.sv} {1 {vlog -work work -sv -stats=none {D:\Uni\Semester 4\Digital Systems 1\CA\CA4\Q1\Q1_test.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reg4_test
+
+Top level modules:
+	reg4_test
+
+} {} {}}

@@ -1,0 +1,86 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q2
+vreg4
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1716412211
+!i10b 1
+!s100 ]hGjSKMnMA7]LCknCKe`i3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I5Z5MkDcQDigka0Zc<MN6`1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dD:/Uni/Semester 4/Digital Systems 1/CA/CA4/Q1
+w1716411996
+8D:\Uni\Semester 4\Digital Systems 1\CA\CA4\Q1\Q1.sv
+FD:\Uni\Semester 4\Digital Systems 1\CA\CA4\Q1\Q1.sv
+!i122 3
+L0 1 17
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1716412211.000000
+!s107 D:\Uni\Semester 4\Digital Systems 1\CA\CA4\Q1\Q1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:\Uni\Semester 4\Digital Systems 1\CA\CA4\Q1\Q1.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vreg4_test
+R0
+R1
+!i10b 1
+!s100 MP3=J<Vi8I11;UOhezN2c2
+R2
+IXOzH_l?IgVNV@;<QDmmVc3
+R3
+S1
+R4
+w1716412205
+Z9 8D:\Uni\Semester 4\Digital Systems 1\CA\CA4\Q1\Q1_test.sv
+Z10 FD:\Uni\Semester 4\Digital Systems 1\CA\CA4\Q1\Q1_test.sv
+!i122 4
+Z11 L0 2 46
+R5
+r1
+!s85 0
+31
+R6
+Z12 !s107 D:\Uni\Semester 4\Digital Systems 1\CA\CA4\Q1\Q1_test.sv|
+Z13 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:\Uni\Semester 4\Digital Systems 1\CA\CA4\Q1\Q1_test.sv|
+!i113 1
+R7
+R8
+vtb1
+R0
+!s110 1716412192
+!i10b 1
+!s100 `RIiKR;b?g1OPMgL[g[5A1
+R2
+IZPTj@gn[;IE4Og3K>[JSL0
+R3
+S1
+R4
+w1716412185
+R9
+R10
+!i122 2
+R11
+R5
+r1
+!s85 0
+31
+!s108 1716412192.000000
+R12
+R13
+!i113 1
+R7
+R8

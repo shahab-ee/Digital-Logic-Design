@@ -1,0 +1,56 @@
+vsim work.ALU_test
+# vsim work.ALU_test 
+# Start time: 11:59:27 on May 08,2024
+# Loading sv_std.std
+# Loading work.ALU_test
+# Loading work.ALU16
+add wave -position insertpoint sim:/ALU_test/*
+run -all
+# ** Note: $stop    : D:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q1/Q1.sv(15)
+#    Time: 1 us  Iteration: 0  Instance: /ALU_test
+# Break in Module ALU_test at D:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q1/Q1.sv line 15
+quit -sim
+# End time: 12:03:24 on May 08,2024, Elapsed time: 0:03:57
+# Errors: 0, Warnings: 2
+#  Trace back: window name "source2" already exists in parent
+#     while executing
+# "frame [GetActiveWindowFooter].$name"
+#     (procedure "Console::CreateWindowFooter" line 3)
+#     invoked from within
+# "Console::CreateWindowFooter [$frame_name cget -windowname]"
+#     (object "::.main_pane.source2" method "::mtiwidgets::WindowObj::Activate" body line 24)
+#     invoked from within
+# "$windowobj Activate """
+#     (object "::.vcop" method "::vsimwidgets::Vcop::ActualActivate" body line 36)
+#     invoked from within
+# "::.vcop ActualActivate"
+#     (in namespace inscope "::vsimwidgets::Vcop" script line 1)
+#     invoked from within
+# "namespace inscope ::vsimwidgets::Vcop {::.vcop ActualActivate}"
+#     ("after" script)
+#    <2:C:/intelFPGA/20.1/modelsim_ase/win32aloem/tk8.6/bgerror.tcl:106: ::tkerror {window name "source2" already exists in parent}
+#    <1:proc:24: ::tk::dialog::error::bgerror {window name "source2" already exists in parent}
+# Compile of test.sv was successful.
+# Compile of Q1_y.sv was successful.
+# Compile of Q1.sv was successful.
+# Compile of mycells.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim work.ALU_test
+# vsim work.ALU_test 
+# Start time: 12:04:52 on May 08,2024
+# Loading sv_std.std
+# Loading work.ALU_test
+# Loading work.ALU16
+# Loading work.ALU16_y
+# Loading work.NOR
+# Loading work.NOT
+# Loading work.NAND
+add wave -position insertpoint sim:/ALU_test/*
+run -all
+# ** Note: $stop    : D:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q1/Q1.sv(15)
+#    Time: 1 us  Iteration: 0  Instance: /ALU_test
+# Break in Module ALU_test at D:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q1/Q1.sv line 15
+quit -sim
+# End time: 12:08:40 on May 08,2024, Elapsed time: 0:03:48
+# Errors: 0, Warnings: 2
+project open {D:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q2/Q2}

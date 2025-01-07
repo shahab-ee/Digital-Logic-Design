@@ -1,0 +1,17 @@
+module shifter_non_blocking (
+    input clk,
+    input shn,
+    input [3:0] si,
+    output reg [3:0] array [0:8]
+);
+    integer i;
+    
+    always @(posedge clk) begin
+        if (shn) begin
+            for (i = 0; i < 8; i = i + 1) begin
+                array[i+1] <= array[i];
+            end
+            array[0] <= si;
+        end
+    end
+endmodule

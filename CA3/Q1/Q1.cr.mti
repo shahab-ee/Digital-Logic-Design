@@ -1,0 +1,39 @@
+{D:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q1/Q1.sv} {1 {vlog -work work -sv -stats=none {D:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q1/Q1.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_test
+
+Top level modules:
+	ALU_test
+
+} {} {}} {D:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q1/Q1_y.sv} {1 {vlog -work work -sv -stats=none {D:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q1/Q1_y.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU16_y
+
+Top level modules:
+	ALU16_y
+
+} {} {}} {D:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q1/test.sv} {1 {vlog -work work -sv -stats=none {D:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q1/test.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU16
+
+Top level modules:
+	ALU16
+
+} {} {}} C:/Users/SHAHAB/Desktop/Yosys/mycells.v {1 {vlog -work work -stats=none C:/Users/SHAHAB/Desktop/Yosys/mycells.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module NOT
+-- Compiling module NAND
+-- Compiling module NOR
+-- Compiling module DFF
+-- Compiling module DFF_PP0
+-- Compiling module DFF_PP1
+
+Top level modules:
+	NOT
+	NAND
+	NOR
+	DFF
+	DFF_PP0
+	DFF_PP1
+
+} {} {}}

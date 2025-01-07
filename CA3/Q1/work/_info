@@ -1,0 +1,233 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vALU16
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1715157283
+!i10b 1
+!s100 9XCTUBTneGS5NaAT:?o0h3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IH:=Qh0z86BK=JiYzOgo573
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dD:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q1
+w1715095335
+8D:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q1/test.sv
+FD:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q1/test.sv
+!i122 13
+L0 2 10
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1715157282.000000
+!s107 D:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q1/test.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q1/test.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+n@a@l@u16
+vALU16_y
+R0
+R1
+!i10b 1
+!s100 H_gj0zcSj2G6I4_n^9n6d1
+R2
+I^ZQmjP0OFIabc]GQFUfZX3
+R3
+S1
+R4
+w1715095261
+8D:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q1/Q1_y.sv
+FD:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q1/Q1_y.sv
+!i122 14
+L0 5 5217
+R5
+r1
+!s85 0
+31
+Z8 !s108 1715157283.000000
+!s107 D:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q1/Q1_y.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q1/Q1_y.sv|
+!i113 1
+R6
+R7
+n@a@l@u16_y
+vALU_test
+R0
+R1
+!i10b 1
+!s100 :H^XCJ2gJ@56=PzDf0Dz51
+R2
+I^<eNfnjj>dh6z`Wm0bjI30
+R3
+S1
+R4
+w1715157279
+8D:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q1/Q1.sv
+FD:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q1/Q1.sv
+!i122 15
+L0 2 17
+R5
+r1
+!s85 0
+31
+R8
+!s107 D:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q1/Q1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Uni/Semester 4/Digital Systems 1/CA/CA3/Q1/Q1.sv|
+!i113 1
+R6
+R7
+n@a@l@u_test
+vDFF
+Z9 !s110 1715157284
+!i10b 1
+!s100 9Kc]>n0;m0OTK<i3l8?_:0
+R2
+Io7<g`ST>IKCFZn<omgMO`0
+R3
+R4
+Z10 w1638820552
+Z11 8C:/Users/SHAHAB/Desktop/Yosys/mycells.v
+Z12 FC:/Users/SHAHAB/Desktop/Yosys/mycells.v
+!i122 16
+L0 20 6
+R5
+r1
+!s85 0
+31
+Z13 !s108 1715157284.000000
+!s107 C:/Users/SHAHAB/Desktop/Yosys/mycells.v|
+Z14 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/SHAHAB/Desktop/Yosys/mycells.v|
+!i113 1
+Z15 o-work work
+R7
+n@d@f@f
+vDFF_PP0
+R9
+!i10b 1
+!s100 Ig4QjH@^Nee5aAjSWm?Q_2
+R2
+I[V@SJ18;V?O8=6PN89AJh0
+R3
+R4
+R10
+R11
+R12
+!i122 16
+L0 27 10
+R5
+r1
+!s85 0
+31
+R13
+Z16 !s107 C:/Users/SHAHAB/Desktop/Yosys/mycells.v|
+R14
+!i113 1
+R15
+R7
+n@d@f@f_@p@p0
+vDFF_PP1
+R9
+!i10b 1
+!s100 UiV@]1Uc:BLDF`BdJoboO2
+R2
+ICzgDL^CJA=ORc^cgck]8K3
+R3
+R4
+R10
+R11
+R12
+!i122 16
+L0 38 10
+R5
+r1
+!s85 0
+31
+R13
+R16
+R14
+!i113 1
+R15
+R7
+n@d@f@f_@p@p1
+vNAND
+R9
+!i10b 1
+!s100 iQeT?e=ifMkPc<9Y^9B8e2
+R2
+I_UP9G94@D]h<GC]^[0X_42
+R3
+R4
+R10
+R11
+R12
+!i122 16
+L0 8 5
+R5
+r1
+!s85 0
+31
+R13
+R16
+R14
+!i113 1
+R15
+R7
+n@n@a@n@d
+vNOR
+R9
+!i10b 1
+!s100 jD8b28P?Y<Be0n5^SEN6T2
+R2
+IaF_YQgIWU3ARdn_1gZYNe1
+R3
+R4
+R10
+R11
+R12
+!i122 16
+L0 14 5
+R5
+r1
+!s85 0
+31
+R13
+R16
+R14
+!i113 1
+R15
+R7
+n@n@o@r
+vNOT
+R9
+!i10b 1
+!s100 3Tm5Z8>`m[E>PKjj4J_TZ3
+R2
+I9BXYZ=01WRHAQhD:V2WW=3
+R3
+R4
+R10
+R11
+R12
+!i122 16
+L0 2 5
+R5
+r1
+!s85 0
+31
+R13
+R16
+R14
+!i113 1
+R15
+R7
+n@n@o@t

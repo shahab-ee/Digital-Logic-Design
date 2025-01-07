@@ -1,0 +1,20 @@
+# Compile of Q2_reg.sv was successful.
+# Compile of Q2.sv was successful.
+# Compile of Q2_test.sv was successful.
+# 3 compiles, 0 failed with no errors.
+vsim work.shift_test
+# vsim work.shift_test 
+# Start time: 12:40:40 on May 29,2024
+# Loading sv_std.std
+# Loading work.shift_test
+# Loading work.shifter
+# Loading work.reg4
+add wave -position insertpoint sim:/shift_test/*
+run -all
+# ** Note: $stop    : D:/Uni/Semester 4/Digital Systems 1/CA/CA4/Q2/Q2_test.sv(54)
+#    Time: 1500 ns  Iteration: 0  Instance: /shift_test
+# Break in Module shift_test at D:/Uni/Semester 4/Digital Systems 1/CA/CA4/Q2/Q2_test.sv line 54
+quit -sim
+# End time: 12:44:50 on May 29,2024, Elapsed time: 0:04:10
+# Errors: 0, Warnings: 2
+project open {D:/Uni/Semester 4/Digital Systems 1/CA/CA4/Q3/Q3}
