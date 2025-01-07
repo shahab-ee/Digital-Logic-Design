@@ -1,0 +1,15 @@
+{D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q1/Q1_test.sv} {1 {vlog -work work -sv -stats=none {D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q1/Q1_test.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module norTB
+
+Top level modules:
+	norTB
+
+} {} {}} {D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q1/Q1.sv} {1 {vlog -work work -sv -stats=none {D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q1/Q1.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mynor
+
+Top level modules:
+	mynor
+
+} {} {}}

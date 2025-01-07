@@ -1,0 +1,112 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q4
+vmux4_2to1
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1709662869
+!i10b 1
+!s100 3@R8dAWSC6AST1M@7VO5@0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I?JLThDJ1gSn^<Mji:FP3I1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dD:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5
+w1709611640
+8D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5/Q4.sv
+FD:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5/Q4.sv
+!i122 6
+L0 2 5
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1709662869.000000
+!s107 D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5/Q4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5/Q4.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vmux4_nor
+R0
+R1
+!i10b 1
+!s100 ?^gl2Yn6Gd_i@Imb^Y[_c2
+R2
+Inn`fHlz[kcAkGCa>33Z2J3
+R3
+S1
+R4
+w1709662864
+8D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5/Q3.sv
+FD:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5/Q3.sv
+!i122 5
+L0 2 17
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5/Q3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5/Q3.sv|
+!i113 1
+R7
+R8
+vmux_compare
+R0
+R1
+!i10b 1
+!s100 f;Q0eG]fW^[OcB?@lg7:J3
+R2
+I=<T=W3c4P?jJMZSLW;AoW2
+R3
+S1
+R4
+w1709662543
+8D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5/Q5.sv
+FD:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5/Q5.sv
+!i122 4
+L0 2 28
+R5
+r1
+!s85 0
+31
+!s108 1709662868.000000
+!s107 D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5/Q5.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5/Q5.sv|
+!i113 1
+R7
+R8
+vpassMUX
+R0
+!s110 1709662870
+!i10b 1
+!s100 XJb`E0nzme<HG4JK:2ikD2
+R2
+I4f[lU5V>;Cib=EffkoZ4h1
+R3
+S1
+R4
+w1709611699
+8D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5/passMUX.sv
+FD:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5/passMUX.sv
+!i122 7
+L0 2 9
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5/passMUX.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5/passMUX.sv|
+!i113 1
+R7
+R8
+npass@m@u@x

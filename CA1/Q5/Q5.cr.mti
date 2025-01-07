@@ -1,0 +1,29 @@
+{D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5/Q3.sv} {1 {vlog -work work -sv -stats=none {D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5/Q3.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux4_nor
+
+Top level modules:
+	mux4_nor
+
+} {} {}} {D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5/passMUX.sv} {1 {vlog -work work -sv -stats=none {D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5/passMUX.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module passMUX
+
+Top level modules:
+	passMUX
+
+} {} {}} {D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5/Q4.sv} {1 {vlog -work work -sv -stats=none {D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5/Q4.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux4_2to1
+
+Top level modules:
+	mux4_2to1
+
+} {} {}} {D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5/Q5.sv} {1 {vlog -work work -sv -stats=none {D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q5/Q5.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_compare
+
+Top level modules:
+	mux_compare
+
+} {} {}}

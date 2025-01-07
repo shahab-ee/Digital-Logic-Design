@@ -1,0 +1,18 @@
+# Compile of Q3.sv was successful.
+# Compile of Q3_test.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.mux4_nor_test
+# vsim work.mux4_nor_test 
+# Start time: 12:09:59 on Mar 06,2024
+# Loading sv_std.std
+# Loading work.mux4_nor_test
+# Loading work.mux4_nor
+add wave -position insertpoint sim:/mux4_nor_test/*
+run -all
+# ** Note: $stop    : D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q3/Q3_test.sv(25)
+#    Time: 1350 ns  Iteration: 0  Instance: /mux4_nor_test
+# Break in Module mux4_nor_test at D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q3/Q3_test.sv line 25
+quit -sim
+# End time: 12:12:22 on Mar 06,2024, Elapsed time: 0:02:23
+# Errors: 0, Warnings: 2
+project open {D:/Uni/Semester 4/Digital Systems 1/CA/CA1/Q4/Q4}
